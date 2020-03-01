@@ -4,11 +4,18 @@
 
 ### Space & Time
 
-* References
-* Axiomatization
+* Resources:
  
+### Core Temporal Entities
+* Resources:
+    * OWL Temporal Entities Pattern
+
+### Situations
+* Resources:
+    * OWL Situations Pattern
+
 ### Attributives
 
 #### Qualities
-* OWL Patterns:
-** Temporal Qualities Pattern
+* Resources:  
+    * OWL Temporal Qualities Pattern
