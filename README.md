@@ -7,4 +7,8 @@
 * References
 * Axiomatization
  
+### Attributives
 
+#### Qualities
+* OWL Patterns:
+** Temporal Qualities Pattern
