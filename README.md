@@ -4,7 +4,7 @@
 
 ### Space & Time
 
-References:
-Axiomatization:
+* References
+* Axiomatization
  
 
